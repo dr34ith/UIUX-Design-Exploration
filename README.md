@@ -27,9 +27,16 @@ This repository documents my journey into UI/UX design. Here, I collect design p
 └── Projects/
     └── Design projects and case studies
 ```
+
+
 On-going Design :
 
-<img width="976" height="691" alt="image" src="https://github.com/user-attachments/assets/dc56b145-1c2b-434f-9aaf-24779a66b45a" />
+<img width="469" height="573" alt="image" src="https://github.com/user-attachments/assets/26e1c84f-bb8a-421f-884d-25db5bacc5a9" />
+<img width="469" height="576" alt="image" src="https://github.com/user-attachments/assets/e379ac69-c332-4e65-b954-136de75fb257" />
+
+
+
+
 
 
 
@@ -40,11 +47,13 @@ Latest Design:
 
 
 
+
+
 First design on figma :
 
 
 <img width="400" height="608" alt="image" src="https://github.com/user-attachments/assets/227a7e76-3b4d-46a1-9abf-85024c98159e" />
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/766cbc70-0ed8-4809-9407-0c3d4b64396b" />
+<img width="580" height="600" alt="image" src="https://github.com/user-attachments/assets/766cbc70-0ed8-4809-9407-0c3d4b64396b" />
 
 
 ---

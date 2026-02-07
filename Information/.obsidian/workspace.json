@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "8728e36f12714439",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b22000af1362530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "049afe77ee870d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Notes from Google UX Design Certificate Course.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes from Google UX Design Certificate Course"
+            }
+          },
+          {
+            "id": "6b20db992b0a6fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guide to UIUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guide to UIUX"
+            }
+          },
+          {
+            "id": "24be0cfc8edfd688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Notes from Google UX Design Certificate Course.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes from Google UX Design Certificate Course"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a20ae8638698bd4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2ebac2c61d074d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63dadd66f864bfa8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "526583425930e212",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ccea5574bd6d204",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "839b228d23538e5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "826f8d0fe05dea3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "023d66593827bf9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Outline/Crypnote Project 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Crypnote Project 1"
+            }
+          },
+          {
+            "id": "28f4d97c5eb3bb9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project Outline/Crypnote Project 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Crypnote Project 1"
+            }
+          },
+          {
+            "id": "bcf685cfce68efd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "745d00cca928538c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e20ef6d8c6d05844",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project Outline/Crypnote Project 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Crypnote Project 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "24be0cfc8edfd688",
+  "lastOpenFiles": [
+    "UIUX Project Template Execution.md",
+    "Guide to UIUX.md",
+    "Project Outline/Crypnote Project 1.md",
+    "CrypTnoteLOGO.png",
+    "Project Outline",
+    "lessons",
+    "notes",
+    "notes/Notes from Google UX Design Certificate Course.md",
+    "tPC77foFTlC08-vGw7KrkQ_2ae2e4d2d27d4ac297a2eb1698d0a5f1_JYXD0KKtQYQwEinnf9fBTCHPmRlgqFdHJVFaqc8FQqWbDojF0fhaq0iokaaeVK3mpm6JQpFBLPxjEJQS3Xw-5zp0x3uowc1jpc1Fy7AGcltDxQpG1m0xHdEBaxprkqSdXyZy67FqBbQgFp2ibiMAgitMpMjyaohi-WKD0Ib8mERyaoY14RyszU_clUojW5iNxX.md",
+    "tPC77foFTlC08-vGw7KrkQ_2ae2e4d2d27d4ac297a2eb1698d0a5f1_JYXD0KKtQYQwEinnf9fBTCHPmRlgqFdHJVFaqc8FQqWbDojF0fhaq0iokaaeVK3mpm6JQpFBLPxjEJQS3Xw-5zp0x3uowc1jpc1Fy7AGcltDxQpG1m0xHdEBaxprkqSdXyZy67FqBbQgFp2ibiMAgitMpMjyaohi-WKD0Ib8mERyaoY14RyszU_clUojW5iNxX"
+  ]
+}

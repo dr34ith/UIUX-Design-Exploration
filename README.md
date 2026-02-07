@@ -29,26 +29,6 @@ This repository documents my journey into UI/UX design. Here, I collect design p
 
 ---
 
-##  Topics Covered
-
-```
-▪ Design Principles  → typography, color theory, spacing, hierarchy
-▪ User Research      → personas, user flows, journey mapping
-▪ Prototyping        → wireframes, mockups, interactive prototypes
-▪ Usability          → accessibility, testing, iterative design
-```
-
----
-
-##  Design Philosophy
-
-> "Design is not just what it looks like and feels like. Design is how it works."  
-> — Steve Jobs
-
-Great design is invisible. It guides users effortlessly, solves real problems, and creates delightful experiences. This repository is my practice ground for crafting such experiences.
-
----
-
 <div align="center">
 
 ### 🎨 UI/UX Learning Repository

@@ -55,8 +55,5 @@ Great design is invisible. It guides users effortlessly, solves real problems, a
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-⭐ **Star this repo :>** ⭐
-
-**@Dreaith** • 2025
 
 </div>

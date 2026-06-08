@@ -34,12 +34,24 @@ This repository documents my journey into UI/UX design. Here, I collect design p
 *High-fidelity mobile interface focusing on user experience and seamless navigation.*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b667b3d6-a0b1-4f21-b6da-a1ddf3e491d8" height="400" alt="Screen 1" />
-  <img src="https://github.com/user-attachments/assets/51363cdb-d9d2-4a7f-9b0f-a3a93646fa03" height="400" alt="Screen 2" />
-  <img src="https://github.com/user-attachments/assets/d061363e-e51d-4245-967b-df1452ace52f" height="400" alt="Screen 3" />
-  <img src="https://github.com/user-attachments/assets/a22c0e8b-f6c5-45d7-8c3a-905912459d74" height="400" alt="Screen 4" />
+<img width="253" height="432" alt="image" src="https://github.com/user-attachments/assets/882869e3-1e46-4b13-adbb-8174a9bcd716" />
+<img width="253" height="432" alt="image" src="https://github.com/user-attachments/assets/73f0c5e4-7d6f-4bb0-9861-47ca72e8d2cd" />
+<img width="253" height="432" alt="image" src="https://github.com/user-attachments/assets/45f34ba3-0b55-4f8c-90ec-53a8cc70b181" />
+<img width="253" height="432" alt="image" src="https://github.com/user-attachments/assets/72e20810-993c-434b-84a4-7fe893ce1f79" />
+<img width="253" height="432" alt="image" src="https://github.com/user-attachments/assets/1524f984-de46-49d4-8233-5990dc8bfc31" />
+<img width="253" height="432"  alt="image" src="https://github.com/user-attachments/assets/e1da69ab-978a-4fcd-b082-a1c2dac55073" />
 </p>
 
+### Low-Fidelity of this :
+
+<p align="center">
+<img width="253" height="532"  alt="image" src="https://github.com/user-attachments/assets/712e95a2-0be7-4885-bf14-5be7cc86ef5a" />
+<img width="253" height="532" alt="image" src="https://github.com/user-attachments/assets/385668bd-e37d-4a84-91e7-40c586d469a0" />
+<img width="253" height="532" alt="image" src="https://github.com/user-attachments/assets/7ebeb0e1-1873-4c02-91d2-0f6a9b26dc73" />
+<img width="253" height="532"   alt="image" src="https://github.com/user-attachments/assets/6835596d-4826-4ba8-b4a1-a222fe6ebc08" />
+<img width="253" height="532"  alt="image" src="https://github.com/user-attachments/assets/aa6af77a-08f1-45c9-a8fd-080c98355367" />
+<img width="253" height="532"  alt="image" src="https://github.com/user-attachments/assets/72bd2e51-b895-4246-b6cd-319ce9bfbb60" />
+</p>
 <br/>
 
 ###  Project 01: Learning Platform (On-going)
